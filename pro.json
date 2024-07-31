@@ -1,0 +1,28 @@
+
+
+
+{
+    "profile": [
+        {
+            "img": "boy.jpg",
+            "name": "James",
+            "place": "New York",
+            "field": "Front-end Developer",
+            "Skills": ["UI/UX", "Frontend", "HTML", "CSS", "JavaScript", "React", "Node"]
+        },
+        {
+            "img": "man.jpg",
+            "name": "Robert",
+            "place": "California",
+            "field": "Fullstack Developer",
+            "Skills": ["UI/UX", "Frontend", "HTML", "CSS", "JavaScript", "React", "Node"]
+        },
+        {
+            "img": "girl.jpg",
+            "name": "Nancy",
+            "place": "San Francisco",
+            "field": "Senior Software Developer",
+            "Skills": ["UI/UX", "Frontend", "HTML", "CSS", "JavaScript", "React", "Node"]
+        }
+    ]
+}
