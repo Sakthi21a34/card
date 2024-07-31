@@ -1,0 +1,107 @@
+.card{
+    background-color: black;
+    border: 10px solid white;
+}
+
+#btn{
+    background-color: rgb(255, 208, 0);
+    color: black;
+    padding: 0px 12px;
+    border-radius: 5px;
+    float: right;
+    cursor: pointer;
+
+}
+
+#btn1{
+    background-color: greenyellow;
+    color: black;
+    padding: 0px 12px;
+    border-radius: 5px;
+    float: right;
+    cursor: pointer;
+}
+
+#btn1:hover{
+    background-color: black;
+    color: greenyellow;
+    border: 1px solid white;
+}
+
+#btn:hover{
+    background-color: black;
+    color: orange;
+    border: 1px solid white;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border: 5px solid black;
+    border-radius: 60px;
+    outline: 3px solid white;
+    margin-right: 130px;
+    
+}
+
+
+#name{
+    text-align: center;
+    color: white;
+    padding: 5px 15px;
+}
+
+.btn1{
+    padding: 5px 14px;
+    background-color: blue;
+    color: white;
+    border: 2px solid blue;
+    border-radius: 10px;
+    
+}
+
+.btn2{
+    padding: 5px 14px;
+    background-color: black;
+    color: white;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.btn1:hover{
+    padding: 5px 14px;
+    background-color: black;
+    color: white;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.btn2:hover{
+    padding: 5px 14px;
+    background-color: blue;
+    color: white;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+#u, #u1, #u2{
+    background-color: black;
+    color: #d6d2d2;
+}
+
+.i{
+    border: 1px solid white;
+    margin-left: 7px;
+    padding: 0px;
+    color:#d6d2d2;
+    
+}
+
+.i:hover{
+    border: 1px solid black;
+    margin-left: 5px;
+    padding: 3px;
+    color: black;
+    background-color: white;
+}
